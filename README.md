@@ -4,7 +4,7 @@
 
 ...some kangaroo
 
-![kangaroo](kangaroo.jpg)
+![kangaroo](kangroo.jpg)
 
 ## How to use this
 
