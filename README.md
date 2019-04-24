@@ -1,5 +1,7 @@
 # happy-gitting
 
+## something
+
 ## How to use this
 
 Try out git and all that
