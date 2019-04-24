@@ -2,6 +2,10 @@
 
 ## something
 
+...some kangaroo
+
+![kangaroo](kangaroo.jpg)
+
 ## How to use this
 
 Try out git and all that
